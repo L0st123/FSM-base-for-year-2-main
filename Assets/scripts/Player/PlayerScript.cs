@@ -44,7 +44,7 @@ namespace Player
         }
 
         // Update is called once per frame
-        public void Update()
+        void Update()
         {
             print("state=" + sm.CurrentState);
             sm.CurrentState.LogicUpdate();
