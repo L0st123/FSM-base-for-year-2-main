@@ -188,7 +188,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      il_570xN.5021762033_slp7_0: 2702736851534955649
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
